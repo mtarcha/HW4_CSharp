@@ -1,0 +1,8 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\obj\Debug\HW_4.csprojResolveAssemblyReference.cache
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\Rectangle\Rectangle\bin\Debug\`.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW4\HW4\Rectangle\bin\Debug\`.exe.config
